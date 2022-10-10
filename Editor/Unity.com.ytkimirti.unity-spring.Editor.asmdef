@@ -1,5 +1,5 @@
 {
-    "name": "Unity.com.{{COMPANY}}.{{REPOSITORY_NAME}}.Editor",
+    "name": "Unity.com.ytkimirti.unity-spring.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"
