@@ -1,0 +1,28 @@
+{
+  "name": "com.ytkimirti.unity-spring",
+  "displayName": "ytkimirti - Unity Spring",
+  "version": "0.1.0",
+  "unity": "{{UNITY_VERSION}}",
+  "description": "A simple spring library for Unity",
+  "keywords": [
+    "unity",
+	"unity3d",
+	"upm",
+    "spring",
+    "animation",
+    "tween",
+    "utility"
+  ],
+  "homepage": "https://github.com/ytkimirti/unity-spring.git",
+  "bugs": {
+    "url": "https://github.com/ytkimirti/unity-spring/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ytkimirti/unity-spring.git"
+  },
+  "license": "MIT",
+  "author": "ytkimirti",
+  "scripts": {
+  }
+}
